@@ -2,7 +2,7 @@
 
 ## Classes
 
-* [`Canis`] (src/edu/cnm/deepdive/taxonomy/Canis.java)
+* [`Canis`](src/edu/cnm/deepdive/taxonomy/Canis.java)
 * `CanisLupus`
 * `CanisLupusFamiliaris`
 * `Kennel`
